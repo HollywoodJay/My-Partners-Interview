@@ -1,0 +1,19 @@
+body {
+     background-color: red;
+     Text-align: Center;
+     background: url("https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5388/5388900_sd.jpg;maxHeight=640;maxWidth=550");
+}
+p {
+  color: white;
+  font-family: 'Acme', sans-serif;
+}
+ol {
+   color: white;
+}
+img { 
+    Border: Dashed blue 10px;
+}
+h3 {
+    background-color: blue;
+    color: White;
+}
